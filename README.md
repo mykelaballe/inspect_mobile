@@ -23,7 +23,6 @@ https://play.google.com/store/apps/details?id=nz.recore.inspect
 
 ### Notable Features
 * Offline mode
-* Chat
 * Local storage
 * Network connectivity detection
 * File browsing and photo capturing
