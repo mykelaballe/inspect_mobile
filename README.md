@@ -8,7 +8,7 @@
 built with [React Native](https://facebook.github.io/react-native/)
 
 # About The App
-------
+Manage, track and organize rental property inspections. Inspectors are able to take pictures of the properties and let the landlords and users to view those images
 
 ### My Contribution
 Solely built the app from the ground-up for Android
