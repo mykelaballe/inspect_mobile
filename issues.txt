@@ -1,0 +1,16 @@
+Inspect issues:
+
+1. Unable to edit if item is in dispute - ok
+2. No indication if inspection is submitted but not yet synced to cloud when on mobile
+5. On mobile a completed inspection is still editable
+
+1. on data, can edit and delete if not synced yet, only viewing
+    on wifi and if the settings is turned on, can edit and delete always
+
+2. follow RentPlus
+
+3. [for confirmation]
+
+4. [for confirmation]
+
+5. somewhat the same with #1
