@@ -19,7 +19,7 @@ https://play.google.com/store/apps/details?id=nz.recore.inspect
 <img src="https://user-images.githubusercontent.com/22584900/64800479-43858280-d5b9-11e9-9589-26d2e1f7b4b6.JPG" width="300"/>
 
 ### Screenshots
-<img src="https://user-images.githubusercontent.com/22584900/64801036-42088a00-d5ba-11e9-8f18-fc1ffe18b0bd.jpg"/>
+<img src="https://user-images.githubusercontent.com/22584900/65830554-205e1100-e2e3-11e9-8afe-44439163f2bc.jpg"/>
 
 ### Notable Features
 * Offline mode
